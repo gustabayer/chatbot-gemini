@@ -27,7 +27,7 @@ A aplicação utiliza **Python 3.11.9** como linguagem principal e a **API Googl
 Exemplo de organização:
 
 ```bash
-esports-chatbot/
+chatbot-gemini/
 ├── src/
 │   ├── main.py
 │   ├── chatbot.py
