@@ -34,5 +34,4 @@ esports-chatbot/
 │   ├── config.py
 │   └── prompts.py
 ├── .env
-├── requirements.txt
 └── README.md
